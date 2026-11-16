@@ -1,0 +1,37 @@
+{
+  "id": "50ed719d-18f4-43be-a68e-5c2a87a989e0",
+  "name": "vaso_nao_muita_luz",
+  "auto": true,
+  "contexts": [
+    "aguardando_vaso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "muita_luz.muita_luz-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo bem! 🌿 Vamos preparar seu pedido só com a planta.                                                                                                                                                                                                    Agradecemos pela sua compra na VerdeFácil! 🌿💚 Foi um prazer te atender. Estamos torcendo para que sua plantinha cresça forte e saudável. Conte conosco sempre que precisar. Até a próxima!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

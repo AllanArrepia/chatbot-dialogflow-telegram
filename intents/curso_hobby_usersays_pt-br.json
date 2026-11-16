@@ -1,0 +1,80 @@
+[
+  {
+    "id": "117e561a-d872-4dce-83dc-a2627180897b",
+    "data": [
+      {
+        "text": "gosto de plantas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca3e7ce1-9083-4447-8cce-3dc0e1a78e1d",
+    "data": [
+      {
+        "text": "terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af48ca4d-6908-49df-affe-6bfc8bb8a77b",
+    "data": [
+      {
+        "text": "relaxar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6681e85-a758-4bfc-9dea-e62e26eb12d3",
+    "data": [
+      {
+        "text": "bem-estar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79980970-afdd-400f-92ff-fcd162dc49a1",
+    "data": [
+      {
+        "text": "hobby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0eddf86-eab5-4f2e-bf75-4e680c64c50e",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

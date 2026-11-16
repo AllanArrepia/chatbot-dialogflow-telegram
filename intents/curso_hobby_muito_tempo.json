@@ -1,0 +1,37 @@
+{
+  "id": "01e32e9c-cf69-4080-85b9-2af1c881bda5",
+  "name": "curso_hobby_muito_tempo",
+  "auto": true,
+  "contexts": [
+    "aguardando_tempo_hobby"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "curso_tecnico.curso_tecnico-custom.curso_hobby-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Perfeito! Com mais tempo você aprofunda nos módulos práticos. 📚"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

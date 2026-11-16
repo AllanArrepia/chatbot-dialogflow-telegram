@@ -1,0 +1,37 @@
+{
+  "id": "69c96d5b-c790-43a0-b0b0-c93300c318b4",
+  "name": "vaso_sim_muita_luz",
+  "auto": true,
+  "contexts": [
+    "aguardando_vaso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "muita_luz.muita_luz-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Agradecemos pela sua compra na VerdeFácil! 🌿💚 Foi um prazer te atender. Estamos torcendo para que sua plantinha cresça forte e saudável. Conte conosco sempre que precisar. Até a próxima!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

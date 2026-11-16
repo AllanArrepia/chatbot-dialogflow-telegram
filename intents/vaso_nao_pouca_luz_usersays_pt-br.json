@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6ea6da1e-e9cc-48cc-9c83-754efe6f0276",
+    "data": [
+      {
+        "text": "nao quero vaso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c144675-d1d4-498e-8e04-0f190393b817",
+    "data": [
+      {
+        "text": "sem vaso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78e5c3ad-f8f0-4326-b965-831c8072fb39",
+    "data": [
+      {
+        "text": "só a planta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d109d6a2-7b01-4fc2-870e-312c8e53d30f",
+    "data": [
+      {
+        "text": "não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5a21b73-1a0c-4dcf-9be8-3c9eeb0cc725",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

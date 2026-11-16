@@ -1,0 +1,37 @@
+{
+  "id": "b99d8372-d70c-47be-916d-b3c901aef14b",
+  "name": "sos_amarelo",
+  "auto": true,
+  "contexts": [
+    "aguardando_sintoma"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sos_planta.sos_planta-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "\"Folhas amarelas geralmente indicam excesso de água. 💧 Reduza a rega para 1 a 2 vezes por semana e deixe o solo secar entre as regas. Isso deve resolver! 🌿💚 Agradecemos por cuidar da sua plantinha com a VerdeFácil!\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

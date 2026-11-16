@@ -1,0 +1,80 @@
+[
+  {
+    "id": "44174530-153f-4878-857b-83fede2f6da4",
+    "data": [
+      {
+        "text": "ácaros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33b9b14f-6911-4353-b666-0690dc835c9a",
+    "data": [
+      {
+        "text": "cochonilha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "533daee1-bf7a-4fc6-ba25-fc6ec5a34fb2",
+    "data": [
+      {
+        "text": "insetos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e65038e8-ab58-449a-9fdc-899cee7e1e6e",
+    "data": [
+      {
+        "text": "pragas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bb5e26ea-cdc0-411c-9328-88756872a564",
+    "data": [
+      {
+        "text": "bichinhos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5de9b675-6cf4-4633-b087-050aa82ba0ef",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

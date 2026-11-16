@@ -1,0 +1,42 @@
+{
+  "id": "25656b49-ac2a-4a2b-a1f8-338a496a7e42",
+  "name": "avaliacao_nao_ajudou",
+  "auto": true,
+  "contexts": [
+    "aguardando_ajudou"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sos_planta.sos_planta-custom.sos_seco-custom",
+      "affectedContexts": [
+        {
+          "name": "aguardando_humano",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que pena! 😟 Talvez seja algo mais complexo.\n\nQuer falar com um consultor humano?\n(1) Sim, quero falar com humano\n(2) Não, obrigado"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

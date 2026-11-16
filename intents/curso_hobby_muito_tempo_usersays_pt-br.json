@@ -1,0 +1,67 @@
+[
+  {
+    "id": "28189872-6762-4357-8ab2-bd12b9a7bde7",
+    "data": [
+      {
+        "text": "tenho tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fc18ef1a-a93c-428a-8516-b32a7e3961a6",
+    "data": [
+      {
+        "text": "bastante tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de566b7d-1602-4d1c-9a90-7c60f9bbce2b",
+    "data": [
+      {
+        "text": "5 horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5183d969-ec10-4ec6-a571-7196819d80cc",
+    "data": [
+      {
+        "text": "mais de 5 horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3447a81-cd0d-43b3-a94e-79bf54046d3f",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "899c9bdf-d3bf-4072-bd76-dcfdadbbdde4",
+    "data": [
+      {
+        "text": "ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "312727a2-048f-4ac8-9e32-fcc5ed876ab0",
+    "data": [
+      {
+        "text": "pouco tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4aa7805e-96fe-4759-be99-c7f2549f9646",
+    "data": [
+      {
+        "text": "2 horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "58eba43e-d7ca-4f56-9693-a661f4e7deab",
+    "data": [
+      {
+        "text": "até 2 horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d22c7959-a102-4f83-9ab9-4934d665f85f",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

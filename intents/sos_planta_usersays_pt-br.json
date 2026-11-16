@@ -1,0 +1,184 @@
+[
+  {
+    "id": "d69af8cc-806f-460d-b586-5b4fa43a4556",
+    "data": [
+      {
+        "text": "sos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce3b3f9a-78e4-43c0-afce-21bb5bd48b0c",
+    "data": [
+      {
+        "text": "preciso de ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4027333-6eb3-49d1-a829-fca408ac8ada",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b92531b9-79ea-428c-8c4f-40fbe175e9b5",
+    "data": [
+      {
+        "text": "socorro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7aa7ce73-e18c-40b9-9d3f-29d70a607bee",
+    "data": [
+      {
+        "text": "três",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d9fbbf68-7a33-4734-8d6a-020708c0a409",
+    "data": [
+      {
+        "text": "número 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d5e7fcf-cab3-4f2c-9ead-ea8b98a53464",
+    "data": [
+      {
+        "text": "opção 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad0387cc-a4be-4558-8660-432f8c273d2b",
+    "data": [
+      {
+        "text": "terceira opção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "620cb737-528a-4c22-8fbb-7ec93770da19",
+    "data": [
+      {
+        "text": "planta com problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a587a73-93fd-44da-b728-eaa599f65e13",
+    "data": [
+      {
+        "text": "planta doente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ba1ebf1-92db-41b9-92a6-b179bac18167",
+    "data": [
+      {
+        "text": "minha planta está morrendo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce8ea33e-052c-407d-b50e-f86af55f0695",
+    "data": [
+      {
+        "text": "planta morrendo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23c05d17-bd6c-42eb-a9cb-9b4c87b8bde7",
+    "data": [
+      {
+        "text": "ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cdb58ede-77f1-4604-bd74-d2c377fdbead",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

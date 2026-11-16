@@ -1,0 +1,37 @@
+{
+  "id": "8a01fead-969e-4a55-bd16-7430de4ca2fe",
+  "name": "avaliacao_ajudou",
+  "auto": true,
+  "contexts": [
+    "aguardando_ajudou"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sos_planta.sos_planta-custom.sos_seco-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que alegria! 🌿 Fico feliz que sua plantinha vai ficar bem!\n\nSe precisar de mais ajuda, é só chamar. Abraço verde! 💚"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

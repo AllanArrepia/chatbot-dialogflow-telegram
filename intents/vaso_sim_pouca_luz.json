@@ -1,0 +1,37 @@
+{
+  "id": "ff9ab2b4-818e-4cfd-b4b2-be97c5eef600",
+  "name": "vaso_sim_pouca_luz",
+  "auto": true,
+  "contexts": [
+    "aguardando_vaso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "comprar_planta.comprar_planta-custom-2.pouca_luz-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Excelente escolha! 🌱 O vaso inteligente tem sensor de umidade e avisa quando regar.                                                                                                                                                Agradecemos pela sua compra na VerdeFácil! 🌿💚 Foi um prazer te atender. Estamos torcendo para que sua plantinha cresça forte e saudável. Conte conosco sempre que precisar. Até a próxima!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

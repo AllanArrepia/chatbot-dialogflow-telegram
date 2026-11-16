@@ -1,0 +1,93 @@
+[
+  {
+    "id": "775da252-c404-4c58-b923-2975c61452c7",
+    "data": [
+      {
+        "text": "bastante escuro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef33ad27-d236-43f6-96e5-b77752d13871",
+    "data": [
+      {
+        "text": "apartamento escuro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1556ae18-09e1-42c4-8960-3a66d4308fad",
+    "data": [
+      {
+        "text": "baixa luminosidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ff3e3ec6-64fc-45d7-a1f1-ecaf25728371",
+    "data": [
+      {
+        "text": "escuro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea42ae8a-1055-47d0-aa26-17f10e297ff9",
+    "data": [
+      {
+        "text": "sombra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f9547082-6d1f-4448-8ee4-83871d12753a",
+    "data": [
+      {
+        "text": "pouca luz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a89c079-f305-4a7d-a77b-0cb589345d2f",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

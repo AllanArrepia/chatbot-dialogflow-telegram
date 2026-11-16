@@ -1,0 +1,64 @@
+{
+  "id": "e3a869a2-f2a8-4bde-9f55-184efade5c2f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "menu_aberto",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e19e52da-9ea6-4f2b-94ff-0e578845d42b",
+          "name": "nome",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$nome",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Olá! 🌿 Bem-vindo ao Brotinho Bot da VerdeFácil! Qual seu nome?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ótimo, $nome! 🌿 Agora, como posso te ajudar?\n\n(1) Comprar planta\n(2) Aprender (Curso de Jardinagem)\n(3) SOS - Minha planta está morrendo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

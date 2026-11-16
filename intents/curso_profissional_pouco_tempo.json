@@ -1,0 +1,37 @@
+{
+  "id": "424bc035-fc37-4397-9041-106cba6ce3cb",
+  "name": "curso_profissional_pouco_tempo",
+  "auto": true,
+  "contexts": [
+    "aguardando_tempo_prof"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "curso_tecnico.curso_tecnico-custom.curso_profissional-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ótimo! Você consegue acompanhar com 30 minutos por dia. ⏰"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

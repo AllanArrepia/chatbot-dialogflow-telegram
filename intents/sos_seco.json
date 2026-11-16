@@ -1,0 +1,42 @@
+{
+  "id": "ce24aab7-05ea-4206-b2b3-4a98f71d5708",
+  "name": "sos_seco",
+  "auto": true,
+  "contexts": [
+    "aguardando_sintoma"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sos_planta.sos_planta-custom",
+      "affectedContexts": [
+        {
+          "name": "aguardando_ajudou",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Pontas secas indicam **falta de umidade**. 🌵\n\nTente: borrifar água nas folhas e aumentar a frequência de rega.\n\nIsso ajudou?\n(1) Sim\n(2) Não"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

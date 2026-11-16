@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2e3bebb6-304d-4c68-a4cc-9ec9b871523a",
+    "data": [
+      {
+        "text": "empreender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51e0f240-30b1-46c2-8dbe-fde4ee9cc6ec",
+    "data": [
+      {
+        "text": "ganhar dinheiro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33b9383e-85e0-46de-b295-da7022236e41",
+    "data": [
+      {
+        "text": "profissional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9bb4decc-f1bc-498e-9e88-0b9512ffb026",
+    "data": [
+      {
+        "text": "extra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e92db9e0-c7a4-41b4-a57a-aeba856cf4a4",
+    "data": [
+      {
+        "text": "renda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9bc0026e-d6cd-4c4f-94cd-28454acb36fa",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "65234c1a-d896-46f9-acd7-7a35bb576664",
+    "data": [
+      {
+        "text": "ponta marrom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af73bfca-daef-4bbf-8a39-c07e929dd9b2",
+    "data": [
+      {
+        "text": "ressecado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3f0d3e22-3f39-42d1-980b-667c31e675ca",
+    "data": [
+      {
+        "text": "queimado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d8cc340-80c9-4596-8827-8d9397109fd5",
+    "data": [
+      {
+        "text": "seco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "322cccb3-e917-4f2d-8a30-73c856147314",
+    "data": [
+      {
+        "text": "pontas secas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "882b33b8-abb6-401f-b26e-19bdbe4a7044",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

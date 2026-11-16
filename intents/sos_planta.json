@@ -1,0 +1,42 @@
+{
+  "id": "4a0bb640-4a86-48bb-aaa9-378076c9afcd",
+  "name": "sos_planta",
+  "auto": true,
+  "contexts": [
+    "menu_aberto"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_sintoma",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Calma, vamos salvar sua plantinha juntos!\n\nQual é o principal sintoma?\n(1) Folhas amareladas\n(2) Pontas secas ou queimadas\n(3) Bichinhos ou pragas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

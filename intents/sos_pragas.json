@@ -1,0 +1,37 @@
+{
+  "id": "a55836de-a2c0-4f20-b903-587bae7abdbe",
+  "name": "sos_pragas",
+  "auto": true,
+  "contexts": [
+    "aguardando_sintoma"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sos_planta.sos_planta-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Pragas! 😱 A solução é aplicar óleo de neem diluído em água diretamente nas folhas, uma vez a cada 7 dias. Isso deve resolver! 🌿💚 Agradecemos por cuidar da sua plantinha com a VerdeFácil!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

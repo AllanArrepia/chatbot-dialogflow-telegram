@@ -1,0 +1,37 @@
+{
+  "id": "9e5713f6-b0f7-4649-992e-a63a164cba9d",
+  "name": "curso_profissional_muito_tempo",
+  "auto": true,
+  "contexts": [
+    "aguardando_tempo_prof"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "curso_tecnico.curso_tecnico-custom.curso_profissional-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Perfeito! Com mais tempo você aprofunda nos módulos práticos. 📚"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ce285172-cb41-426e-8726-5a878280fc3a",
+  "name": "muita_luz",
+  "auto": true,
+  "contexts": [
+    "aguardando_luz"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "comprar_planta.comprar_planta-custom",
+      "affectedContexts": [
+        {
+          "name": "aguardando_vaso",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Perfeito! Para você recomendo: Jiboia ou Suculenta. 🌵\n\nDeseja incluir um vaso inteligente autoirrigável?\n(1) Sim, adicionar vaso\n(2) Não, só a planta"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

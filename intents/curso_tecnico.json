@@ -1,0 +1,42 @@
+{
+  "id": "ff979314-d7cd-4ec2-9d09-877049ee9f69",
+  "name": "curso_tecnico",
+  "auto": true,
+  "contexts": [
+    "menu_aberto"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_objetivo",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que legal! 📚 Nosso Curso Técnico de Jardinagem é 100% online com certificado.\n\nQual é o seu objetivo?\n(1) Hobby e bem-estar\n(2) Renda extra ou profissional"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

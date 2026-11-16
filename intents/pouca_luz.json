@@ -1,0 +1,42 @@
+{
+  "id": "ce84fded-fa8c-4ce0-a797-576e70e82f3c",
+  "name": "pouca_luz",
+  "auto": true,
+  "contexts": [
+    "aguardando_luz"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "comprar_planta.comprar_planta-custom-2",
+      "affectedContexts": [
+        {
+          "name": "aguardando_vaso",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para ambientes escuros, recomendo: **Zamioculca** ou **Espada-de-São-Jorge**. 🌿\n\nDeseja incluir um vaso inteligente autoirrigável?\n(1) Sim, adicionar vaso\n(2) Não, só a planta"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

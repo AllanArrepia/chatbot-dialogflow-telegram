@@ -1,0 +1,67 @@
+[
+  {
+    "id": "4de56fdd-c8cd-4b50-a87d-fb48216f86cf",
+    "data": [
+      {
+        "text": "piorou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca856b2e-088c-4832-b297-6b42157f712b",
+    "data": [
+      {
+        "text": "continua igual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac682bfb-896c-4ae5-a849-85dafbe61745",
+    "data": [
+      {
+        "text": "não ajudou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42ed0033-b64a-4fb6-ac83-3b7d193c34f3",
+    "data": [
+      {
+        "text": "não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "58310459-c782-4ef3-901d-5d3bc980465f",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

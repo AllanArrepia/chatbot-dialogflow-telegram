@@ -1,0 +1,37 @@
+{
+  "id": "67603623-a688-48c0-8e40-466e17dd3a6e",
+  "name": "curso_hobby_pouco_tempo",
+  "auto": true,
+  "contexts": [
+    "aguardando_tempo_hobby"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "curso_tecnico.curso_tecnico-custom.curso_hobby-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ótimo! Você consegue acompanhar com 30 minutos por dia. ⏰"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

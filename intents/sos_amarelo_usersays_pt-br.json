@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1d54f1c3-e909-4365-80f0-a19b975f5c2f",
+    "data": [
+      {
+        "text": "folha amarela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "75996e2d-85d7-45e0-b5fc-f507a349fd03",
+    "data": [
+      {
+        "text": "amarelando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82c5b0b0-9eaa-4018-8456-1593e02f07d7",
+    "data": [
+      {
+        "text": "amarelo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a838e803-e4e1-46d1-8014-98c2fa12b4b5",
+    "data": [
+      {
+        "text": "folhas amareladas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "305cdf12-0747-4e23-b64f-add30253ae00",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

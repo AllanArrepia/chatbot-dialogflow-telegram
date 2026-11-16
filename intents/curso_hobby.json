@@ -1,0 +1,42 @@
+{
+  "id": "898ba272-e83c-4877-9f5f-3ccc03217804",
+  "name": "curso_hobby",
+  "auto": true,
+  "contexts": [
+    "aguardando_objetivo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "curso_tecnico.curso_tecnico-custom",
+      "affectedContexts": [
+        {
+          "name": "aguardando_tempo_hobby",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Perfeito! O curso te ensina tudo de forma leve e prática. 🌱\n\nQuanto tempo você tem por semana?\n(1) Até 2 horas\n(2) Mais de 5 horas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

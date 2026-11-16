@@ -1,0 +1,42 @@
+{
+  "id": "f9865a69-72de-4ea6-91ab-bfcaedb8b01f",
+  "name": "curso_profissional",
+  "auto": true,
+  "contexts": [
+    "aguardando_objetivo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "curso_tecnico.curso_tecnico-custom",
+      "affectedContexts": [
+        {
+          "name": "aguardando_tempo_prof",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Excelente! Muitos alunos já vendem mudas e fazem consultoria. 💼\n\nQuanto tempo você tem por semana?\n(1) Até 2 horas\n(2) Mais de 5 horas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

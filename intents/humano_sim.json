@@ -1,0 +1,37 @@
+{
+  "id": "38f07a24-e5bc-4ae4-8df3-bfd4da0b39d0",
+  "name": "humano_sim",
+  "auto": true,
+  "contexts": [
+    "aguardando_humano"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sos_planta.sos_planta-custom.sos_seco-custom.avaliacao_nao_ajudou-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Perfeito! 👨‍🌾 Um consultor botânico vai \"entrar em contato\" com você em breve.\n\nObrigado pela paciência! Se precisar de mais alguma coisa, estou por aqui. 💚"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
